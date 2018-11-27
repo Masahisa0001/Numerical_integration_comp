@@ -1,0 +1,1 @@
+Comparison of numerical integration methods, such as explicit Euler, implicit Euler, and Runge-Kutta 4th method.
